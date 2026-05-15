@@ -1,1 +1,3 @@
-export const schemaTypes = []
+import review from './review'
+
+export const schemaTypes = [review]
