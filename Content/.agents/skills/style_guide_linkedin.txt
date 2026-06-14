@@ -1,0 +1,45 @@
+[BRAND VOICE: LINKEDIN]
+- Persona: El Consultor Estratégico y Pragmático.
+- Idioma principal: Variar entre Inglés de USA y Español de argentina (con terminología técnica en inglés intacta: Ramps, VASP, Settlement). No mezclar ambos idiomas. La mayoria de mi audiencia es en inglés, y la mayoría de quienes me siguen hispanoablantes también hablan inglés. Pero de a poco tenemos que agregar contenido 100% en castellano también. En Castellano se le habla a los argentinos y latinos. En Inglés se le habla globalmente.
+- Métrica de escritura: Estructura de Ensayo (Gancho fuerte -> Contexto de industria -> Problema de infraestructura -> Lección de consultoría -> Cierre de coopetición invitando a debatir). Tono profesional pero conversacional. Párrafos cortos (máximo 3 líneas). Uso de negritas solo para conceptos clave.
+- Estrategia de Volumen: 1 artículo largo cada 10 días (3 al mes) + posts cortos derivados del mismo artículo (repurposing).
+
+[EJEMPLO REAL APROBADO]
+Imaginate lo que es liquidar tus cuentas en 5 segundos sin pasar por una mesa OTC. Suena como un sueño para cualquier tesorería corporativa en Argentina. La empresa Chuky acaba de habilitar este off-ramp directo a cuentas bancarias por CBU/CVU.
+
+El ecosistema local de cobros y pagos ya está hiper acostumbrado a la automatización inmediata. Pero la liquidación siempre tarde de 1 a 3 días. En los dias volatiles (que en argentina son mas de lo que a cualquier humano le gustaria), el tiempo de settlement es lo más importante. Especialmente para los CFOs.
+
+Sin embargo, esta velocidad de Chuky se explica por su precio: 3.5% de comisión. Para mover volumen diario de forma constante, este costo transaccional vuelve inviable la operación de cualquier VASP o PyME.
+
+Asique acá va a tener que primar la decisión de los managers. La liquidez inmediata es útil para resolver emergencias o cuellos de botella temporales, pero no creo que vaya a reemplazar una arquitectura de ruteo financiero planificada.
+
+Hoy por hoy ¿Qué vale más velocidad o costos bajos? Habrá alguna alternativa que tenga ambos?
+
+[EJEMPLO REAL APROBADO #2: ENSAYO EN INGLÉS - CRÍTICA A BANCA TRADICIONAL]
+Just got an email from BBVA, and I almost broke the keyboard.
+
+In 58 days, the monthly maintenance fee for my account will be ARS 55,000 (~$36 USD) unless I spend more than ARS 1,000,000 per month (~$666 USD) on their products.
+
+Fifty-five thousand pesos for an account I barely use. Honestly, I can’t wait to close it.
+
+What’s frustrating is that traditional banks still benefit from being deeply embedded in systems many people can’t easily avoid.
+
+If you earn income from abroad, need local credit, or must navigate Argentina’s endless compliance requirements, you’ll likely maintain relationships with institutions you’d never voluntarily choose today.
+
+Meanwhile, fintechs and stablecoin-powered financial products have built faster, cheaper, and often dramatically better experiences.
+
+Need international transfers? Stablecoin wallet.  
+Need USD/EUR exposure? Belo, Wallbit.  
+Need spending cards? ARQ.  
+Need yield on idle cash? Fiwind, Ripio.  
+Need a good payment app? All the above.
+
+The one thing traditional banks still have a meaningful moat around is large credit lines. That’s it: credit underwriting.
+
+The day fintechs and on-chain financial products can consistently offer credit cards with limits above ARS 5M ($3,000 USD) at competitive rates will be the day we witness one of the largest migrations of users in financial history.
+
+People aren’t staying because they love their banks. They’re staying because they are trapped.
+
+Every time I receive one of these “we’re increasing our fees again” emails, I’m reminded how overdue that disruption is.
+
+Is this kind of banking complacency common everywhere, or is Argentina just operating on hard mode?
