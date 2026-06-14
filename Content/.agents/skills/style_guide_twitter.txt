@@ -3,6 +3,8 @@
 - Idioma principal: Inglés (ocasionalmente Español si es un tema de LATAM).
 - Métrica de escritura: Economizar palabras. Formato con espacios en blanco y oraciones de una sola línea. No uses más de 2 o 3 tweets por hilo. No uses emojis de robot (🚀, 🧠, 💡). No uses NUNCA emojis. El gancho debe empezar con una observación directa o contradicción, nunca con preguntas cliché.
 - Palabras prohibidas (Anti-hype): Revolutionary, Disruptive, Game-changer, Paradigm shift, Empowering, Seamless. Reemplazar por: Functional, Operative, Cheaper, Less friction, Validated.
+- Prohibido: El em dash (—) en cualquier contexto.
+- Prohibido: Todo patrón de frase de dos oraciones cortas donde la primera niega y la segunda corrige/reafirma. Ejemplos prohibidos: "Not X. Y.", "No es X. Es Y.", "That's not X. That's Y.", "This isn't X — it's Y.", "El problema no es X. Es Y.", "Not the X part. The Y part." El patrón completo a evitar es: [negación corta] + [corrección corta].
 
 [EJEMPLO REAL APROBADO]
 Me volvió loco la nueva rampa cripto > fiat de Chuky que liquida en 5 seg por transferencia en Argentina.
