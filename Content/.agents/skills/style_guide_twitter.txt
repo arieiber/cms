@@ -80,3 +80,38 @@ People aren’t staying because they love their banks. They’re staying because
 Every time I receive one of these “we’re increasing our fees again” emails, I’m reminded how overdue that disruption is.
 
 Is this kind of banking complacency common everywhere, or is Argentina just operating on hard mode?
+
+[EJEMPLO REAL APROBADO #5: CARD REVIEW SERIE "CARDS IN EUROPE"]
+Formato: Cards in Europe Review #[N] | @handle Asset
+Rating scale: Excellent 🟢 / Pass 🟢 / Caution 🟡 / Fail 🔴
+Reglas de formato aprendidas de este ejemplo:
+- El naming de serie es "Cards in Europe Review #N" (no "App Review")
+- El hook es una metáfora directa, no una descripción (ej: "Its the mirror of a local card")
+- Siempre incluir detalles técnicos concretos: "non-custodial wallet layer", yield %, rate exacto
+- Si el slippage es cero, cerrarlo con el dato confirmado (Google spot = mismo rate)
+- Mencionar @handles de todas las apps/protocolos involucrados
+- Cerrar con CTA o link al ecosistema cuando existe
+- Se permiten 🟢🟡🔴 para el rating (no son emojis decorativos)
+
+Cards in Europe Review #1 | @GnosisPay EURe
+Rate: Excellent 🟢
+
+Its the mirror of a local card. Balance in EURe, spends in EUR = the card debits EURe 1:1.
+
+€5 in the BVG S-Train. 5 EURe debited. Zero FX conversion. Zero markup. Zilch.
+
+What separates GnosisPay from most stablecoin cards is the non-custodial wallet layer. The card runs across different apps. I tested it through @getrebind and @gnosisapp
+
+Rebind connects to @monerium for a real IBAN. SEPA transfers convert to EURe automatically. Your pre-spend balance earns yield while it sits (today 5.5%).
+
+Gnosis App mints gCRC reward tokens weekly. Swap them to EURe or load directly to the card.
+
+But since I had to buy EURe from USDC, this is the exchange rate I got
+
+swapped $17.37 USDC.e → €15.01 EURe at 0.86/USDC. Witouth a swap fee, and slippage.
+
+Rate is performed onchain by @CoWSwap.
+Google spot that day was 0.86 also.
+
+More cards coming this week.
+if you want to see all the apps offering this card go to http://gnosispay.com/apps
