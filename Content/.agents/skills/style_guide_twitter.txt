@@ -85,7 +85,7 @@ Is this kind of banking complacency common everywhere, or is Argentina just oper
 Formato: Cards in Europe Review #[N] | @handle Asset
 Rating scale: Excellent 🟢 / Pass 🟢 / Caution 🟡 / Fail 🔴
 Reglas de formato aprendidas de este ejemplo:
-- El naming de serie es "Cards in Europe Review #N" (no "App Review")
+- El naming de serie es "Cards in Europe Review #N" para TODOS los métodos de pago testeados en Berlin (incluye gift cards, apps, wallets — no solo tarjetas físicas)
 - El hook es una metáfora directa, no una descripción (ej: "Its the mirror of a local card")
 - Siempre incluir detalles técnicos concretos: "non-custodial wallet layer", yield %, rate exacto
 - Si el slippage es cero, cerrarlo con el dato confirmado (Google spot = mismo rate)
