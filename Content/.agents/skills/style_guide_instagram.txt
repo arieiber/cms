@@ -6,8 +6,9 @@
 
 - Misión del canal: Construir comunidad alrededor de los encuentros de helado y mostrar la adopción cotidiana de stablecoins a través de casos de uso reales y accesibles. El helado es el vehículo. Las stablecoins son el mensaje. La comunidad es el objetivo.
 
-- Contenido permitido: Momentos de los encuentros, anécdotas de uso cotidiano, analogías simples, invitaciones al próximo helado, casos de adopción masificables.
-- Contenido PROHIBIDO en Instagram: reviews técnicas de tarjetas, comparativas de FX, mecánica de blockchain, terminología de web3 (wallets, on-chain, DeFi, staking, gas fees, etc.), contenido de card testing. Todo eso va a Twitter o LinkedIn.
+- Contenido permitido: Momentos de los encuentros, anécdotas de uso cotidiano, métodos de pago explicados en simple, rewards, casos de adopción masificables, invitaciones al próximo helado.
+- Traducción obligatoria: Los conceptos técnicos (wallets, DeFi, on-chain, gas fees, stablecoins, rewards) pueden aparecer pero SIEMPRE traducidos a lenguaje cotidiano y sin jerga. Ejemplo: no "gas fee", sino "el costo de mover la plata"; no "yield", sino "intereses que te da el saldo parado".
+- Contenido PROHIBIDO en Instagram: reseñas de tarjetas, comparativas técnicas de FX, análisis de infraestructura, card testing. Esos temas van a Twitter o LinkedIn.
 
 - Métrica de escritura: Tono relajado, cercano, fresco. Menos código y más calle/comunidad. Traducir conceptos complejos a analogías de la vida cotidiana (helado, café, deudas, el almacén del barrio). Estructura de Caption: 1) Gancho sobre el último encuentro o anécdota cotidiana. 2) Explicación simple sin jerga. 3) CTA invitando al próximo helado.
 
